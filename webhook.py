@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 # --- CONFIG ---
 webhook_url = 'https://discord.com/api/webhooks/1410152967717519390/-vDrVmbY07yI8geD53EyyokC8PORAs7fUzfdQbO9N9hfrPEbdlExfRWQgTs6e0KPWf0e'  # Replace with your Discord webhook
-keywords = ['proxynets', 'alexjamescunn@gmail.com', 'Rax', 'RAX', 'geskorian', 'Hull', 'grave_ace', 'kingston upon hull', 'kingston upon hull', 'hull', '5.198.84.128', 'Alex james cunningham']  # Your info to monitor
+keywords = ['proxynets', 'alexjamescunn@gmail.com', 'Rax', 'RAX', 'geskorian', 'Hull', 'grave_ace', 'kingston upon hull', 'kingston upon hull', 'hull', '5.198.84.128', 'Alex james cunningham', 'd', 'h',]  # Your info to monitor
 scan_interval = 180  # seconds, adjust for scan speed
 alerted_urls = set()  # Prevent duplicate alerts
 
